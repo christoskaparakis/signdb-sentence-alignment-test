@@ -1,0 +1,2184 @@
+WEBVTT
+
+1
+00:00:01.185 --> 00:00:03.668
+Trasmissione sottotitolata
+con parti in respeaking
+
+2
+00:00:03.914 --> 00:00:05.948
+TELEGIORNALE del 28 ottobre 2020
+
+3
+00:00:07.236 --> 00:00:11.519
+Ristoranti chiusi alle 23,
+eventi sportivi senza pubblico,
+
+4
+00:00:11.766 --> 00:00:14.334
+mascherina obbligatoria
+anche all'aperto
+
+5
+00:00:14.582 --> 00:00:17.137
+se non si possono mantenere
+le distanze.
+
+6
+00:00:17.385 --> 00:00:21.126
+Sono le principali nuove misure
+decise dal Consiglio federale.
+
+7
+00:00:23.626 --> 00:00:28.397
+Sono sufficienti per far fronte
+alla seconda ondata di pandemia?
+
+8
+00:00:28.645 --> 00:00:32.269
+Vedremo l'opinione di un esperto
+di malattie infettive
+
+9
+00:00:32.515 --> 00:00:35.630
+e le reazioni dal mondo dello sport
+e della gastronomia.
+
+10
+00:00:38.525 --> 00:00:42.687
+La Svizzera è tra le regioni europee
+dove il virus è più diffuso.
+
+11
+00:00:42.935 --> 00:00:46.187
+Come è stato possibile?
+Cosa abbiamo sbagliato?
+
+12
+00:00:46.435 --> 00:00:50.948
+Lo abbiamo chiesto alla presidente
+della Confederazione.
+
+13
+00:00:55.015 --> 00:00:59.718
+I nostri vicini scelgono misure
+più drastiche.
+
+14
+00:00:59.965 --> 00:01:02.927
+Da lunedì in Germania
+ristoranti chiusi,
+
+15
+00:01:03.174 --> 00:01:06.285
+alberghi inaccessibili ai turisti
+
+16
+00:01:06.532 --> 00:01:09.118
+e pesanti restrizioni
+per svago e vita culturale.
+
+17
+00:01:09.365 --> 00:01:11.878
+Anche in Francia si preannuncia
+un lockdown parziale.
+
+18
+00:01:13.306 --> 00:01:17.917
+In Italia non si placano le proteste
+contro le scelte del Governo Conte.
+
+19
+00:01:18.167 --> 00:01:22.037
+Nelle piazze di 24 città sono
+tornati ristoratori ed esercenti,
+
+20
+00:01:22.284 --> 00:01:26.148
+costretti a chiudere ogni sera
+alle 18.
+
+21
+00:01:31.026 --> 00:01:33.828
+Buonasera.
+
+22
+00:01:34.075 --> 00:01:36.570
+Bar e ristoranti chiusi dalle 23,
+
+23
+00:01:36.818 --> 00:01:40.137
+divieto di manifestazioni
+con più di 50 persone,
+
+24
+00:01:40.384 --> 00:01:42.818
+mascherina obbligatoria
+anche all'esterno
+
+25
+00:01:43.065 --> 00:01:45.636
+dove non è possibile mantenere
+la distanza.
+
+26
+00:01:45.884 --> 00:01:49.185
+Sono alcune delle misure annunciate
+oggi dal Consiglio federale
+
+27
+00:01:49.432 --> 00:01:52.657
+per frenare l'impennata di contagi
+da coronavirus.
+
+28
+00:01:52.905 --> 00:01:56.577
+"Sono provvedimenti che fanno male",
+ha detto Alain Berset,
+
+29
+00:01:56.825 --> 00:02:00.848
+"ma è l'ultima possibilità
+per evitare un nuovo lockdown".
+
+30
+00:02:02.421 --> 00:02:05.632
+Col numero di contagi
+che sale velocemente,
+
+31
+00:02:05.879 --> 00:02:08.868
+il Consiglio federale
+non poteva più attendere.
+
+32
+00:02:09.115 --> 00:02:11.377
+E così ha emanato nuove misure.
+
+33
+00:02:11.624 --> 00:02:14.658
+Discoteche e sale da ballo
+verranno chiuse.
+
+34
+00:02:14.905 --> 00:02:18.418
+Bar e ristoranti dovranno farlo
+dalle 23 alle 6.
+
+35
+00:02:18.665 --> 00:02:21.703
+Il numero massimo ai tavoli
+è fissato a 4 persone.
+
+36
+00:02:21.949 --> 00:02:25.158
+Vietate le manifestazioni
+con oltre 50 persone.
+
+37
+00:02:25.406 --> 00:02:28.984
+Idem per le attività sportive
+e culturali amatoriali
+
+38
+00:02:29.231 --> 00:02:31.206
+con oltre 15 persone.
+
+39
+00:02:31.454 --> 00:02:35.775
+L'obbligo di portare la mascherina
+varrà per i maggiori di 12 anni,
+
+40
+00:02:36.023 --> 00:02:38.498
+anche nelle scuole post-obbligatorie.
+
+41
+00:02:38.747 --> 00:02:41.268
+L'obbligo verrà esteso
+anche all'esterno
+
+42
+00:02:41.516 --> 00:02:43.663
+dove non è possibile mantenere
+la distanza.
+
+43
+00:02:43.910 --> 00:02:47.232
+In privato vietati gli eventi
+con oltre 10 persone.
+
+44
+00:02:48.286 --> 00:02:52.172
+Siamo coscienti che sono misure
+difficili da digerire.
+
+45
+00:02:52.419 --> 00:02:55.958
+Intralciano fortemente
+la vita sociale ed economica.
+
+46
+00:02:56.834 --> 00:03:00.628
+Misure -continua Berset-
+che sono però indispensabili.
+
+47
+00:03:01.513 --> 00:03:04.768
+E' l'unica possibilità
+per evitare un lockdown,
+
+48
+00:03:05.018 --> 00:03:07.878
+una chiusura diffusa
+dell'attività economica.
+
+49
+00:03:08.127 --> 00:03:10.640
+E' davvero l'ultima possibilità.
+
+50
+00:03:14.698 --> 00:03:17.388
+Misure che non sono limitate
+nel tempo.
+
+51
+00:03:17.635 --> 00:03:21.531
+Il problema colpisce duro
+anche lo sport professionistico.
+
+52
+00:03:22.921 --> 00:03:27.138
+E' stata una decisione difficile
+perché i club si sono impegnati
+
+53
+00:03:27.385 --> 00:03:30.537
+a realizzare piani di protezione
+efficaci.
+
+54
+00:03:30.784 --> 00:03:34.703
+Ma rispetto a ottobre la situazione
+ha subito un fortissimo degrado.
+
+55
+00:03:34.951 --> 00:03:38.788
+Ciò non significa -però-
+che ne riparleremo a fine 2021.
+
+56
+00:03:39.035 --> 00:03:42.118
+L'obiettivo è che queste misure
+abbiano l'effetto sperato
+
+57
+00:03:42.365 --> 00:03:45.360
+e che possano essere tolte
+prima possibile.
+
+58
+00:03:46.146 --> 00:03:48.598
+Un aiuto potrebbe arrivare
+dai test veloci,
+
+59
+00:03:48.846 --> 00:03:51.659
+che sono un po' meno precisi
+degli attuali,
+
+60
+00:03:51.906 --> 00:03:54.029
+ma comunque di buona qualità.
+
+61
+00:03:54.515 --> 00:03:56.428
+Ci vorranno solo 15 minuti.
+
+62
+00:03:56.677 --> 00:04:00.911
+Evitiamo così lunghe attese
+a chi risulta negativo al test.
+
+63
+00:04:01.398 --> 00:04:05.471
+Guy Parmelin ha poi assicurato
+che la Svizzera ha buoni strumenti
+
+64
+00:04:05.719 --> 00:04:09.388
+per continuare a gestire la crisi
+anche dal punto di vista economico.
+
+65
+00:04:09.636 --> 00:04:12.858
+Un'ordinanza per i casi di rigore
+-quelli più gravi- ha detto
+
+66
+00:04:13.105 --> 00:04:15.178
+che verrà discussa a novembre
+
+67
+00:04:15.425 --> 00:04:18.200
+e dovrebbe entrare in vigore
+a inizio 2021.
+
+68
+00:04:18.773 --> 00:04:23.776
+L'esplosione dei contagi in Svizzera
+ha costretto il Consiglio federale
+
+69
+00:04:24.023 --> 00:04:28.371
+a rivedere la strategia nel definire
+un Paese o una zona a rischio.
+
+70
+00:04:28.619 --> 00:04:32.068
+I Paesi sulla lista rossa
+finora erano oltre 60.
+
+71
+00:04:32.315 --> 00:04:37.440
+Da domani saranno solo 4: Belgio,
+Repubblica Ceca, Andorra, Armenia
+
+72
+00:04:37.688 --> 00:04:41.131
+e tre regioni francesi,
+tra cui l'Ile de France,
+
+73
+00:04:41.375 --> 00:04:43.461
+quindi Parigi e dintorni.
+
+74
+00:04:43.708 --> 00:04:48.928
+Solo chi rientrerà da questi posti
+dovrà stare in quarantena 10 giorni.
+
+75
+00:04:50.256 --> 00:04:55.206
+Fino a oggi il Consiglio federale
+considerava Paese o zona a rischio
+
+76
+00:04:55.454 --> 00:04:57.751
+chi presentava su 14 giorni
+
+77
+00:04:57.998 --> 00:05:02.151
+60 contagi giornalieri
+ogni 100mila abitanti.
+
+78
+00:05:02.396 --> 00:05:07.538
+Ora il valore in Svizzera
+è di 763 ogni 100mila abitanti.
+
+79
+00:05:07.785 --> 00:05:12.021
+Questo dato sbriciola ogni
+impostazione precedente
+
+80
+00:05:12.268 --> 00:05:17.214
+e il nuovo criterio per considerare
+un Paese o una zona a rischio
+
+81
+00:05:17.460 --> 00:05:21.477
+è che presenti un numero di casi
+uguale al nostro più 60.
+
+82
+00:05:21.724 --> 00:05:24.768
+Attualmente in quarantena
+nella Confederazione
+
+83
+00:05:25.015 --> 00:05:27.158
+ci sono oltre 12mila persone.
+
+84
+00:05:28.254 --> 00:05:34.899
+Nelle ultime 24 ore in Svizzera
+i nuovi casi segnalati sono 8'616,
+
+85
+00:05:35.146 --> 00:05:40.809
+con una percentuale
+di tamponi positivi pari al 28%.
+
+86
+00:05:41.056 --> 00:05:45.111
+I ricoveri in ospedale sono 149,
+i decessi 24.
+
+87
+00:05:45.359 --> 00:05:51.919
+In Ticino nelle ultime 24 ore
+i contagi sono 308:
+
+88
+00:05:52.166 --> 00:05:56.559
+è un numero record dall'inizio
+della pandemia,
+
+89
+00:05:56.806 --> 00:06:02.358
+anche se vengono effettuati
+più tamponi rispetto alla primavera.
+
+90
+00:06:02.606 --> 00:06:05.472
+Nei Grigioni i nuovi casi sono 98.
+
+91
+00:06:05.720 --> 00:06:09.129
+Nei due cantoni non si registrano
+nuovi decessi.
+
+92
+00:06:10.097 --> 00:06:14.229
+Lo sport professionistico
+può continuare la sua attività,
+
+93
+00:06:14.477 --> 00:06:17.345
+ma dovrà farlo in sostanza
+senza pubblico.
+
+94
+00:06:17.592 --> 00:06:22.003
+La decisione ha suscitato critiche
+dalle leghe di hockey e calcio,
+
+95
+00:06:22.251 --> 00:06:27.129
+che sottolineano come i club abbiano
+investito nei piani di protezione
+
+96
+00:06:27.376 --> 00:06:32.576
+e che negli stadi finora non ci sono
+stati focolai di infezione.
+
+97
+00:06:32.824 --> 00:06:34.398
+Il mondo del calcio
+
+98
+00:06:34.646 --> 00:06:38.271
+ha fatto sapere che il campionato
+dovrebbe proseguire,
+
+99
+00:06:38.519 --> 00:06:42.609
+l'hockey valuterà la situazione
+e deciderà il da farsi.
+
+100
+00:06:42.855 --> 00:06:46.714
+Potrebbero essere molti i club
+a rischio sopravvivenza.
+
+101
+00:06:46.961 --> 00:06:51.252
+Ecco le reazioni di due esponenti
+del mondo dello sport.
+
+102
+00:06:52.456 --> 00:06:55.167
+La situazione è grave, ci è chiaro.
+
+103
+00:06:55.415 --> 00:06:59.559
+A farci male è che siamo
+in una situazione
+
+104
+00:06:59.806 --> 00:07:05.217
+che ci priva delle nostre fonti
+principali di ricavo.
+
+105
+00:07:05.464 --> 00:07:08.489
+Non abbiamo diritto
+al lavoro ridotto.
+
+106
+00:07:08.735 --> 00:07:14.219
+Gli aiuti che ci sono stati promessi
+non sono ancora stati versati.
+
+107
+00:07:14.466 --> 00:07:16.855
+Ci sono solo dei prestiti.
+
+108
+00:07:17.939 --> 00:07:21.241
+I presidenti del club
+di Lega Nazionale
+
+109
+00:07:21.488 --> 00:07:24.908
+hanno espresso il loro parere
+oltre 2 giorni fa.
+
+110
+00:07:25.156 --> 00:07:27.850
+In sostanza, abbiamo detto
+
+111
+00:07:28.096 --> 00:07:30.173
+che vogliamo giocare.
+
+112
+00:07:30.420 --> 00:07:32.764
+Giocatori, dirigenti, società,
+
+113
+00:07:33.012 --> 00:07:35.909
+tifosi, sponsor e televisioni
+
+114
+00:07:36.156 --> 00:07:39.369
+aspettano che il campionato
+abbia luogo.
+
+115
+00:07:39.616 --> 00:07:43.137
+Nostro compito è giocare,
+ecco il nostro messaggio.
+
+116
+00:07:43.385 --> 00:07:47.309
+La nuova situazione ci impone
+di rifare i calcoli da zero
+
+117
+00:07:47.557 --> 00:07:50.559
+e di capire se,
+da parte dell'ente pubblico,
+
+118
+00:07:50.806 --> 00:07:54.418
+ci sarà la disponibilità
+ad aumentare questo sostegno,
+
+119
+00:07:54.666 --> 00:07:58.894
+perché altrimenti la difficoltà
+per molti club sarebbe grossa.
+
+120
+00:08:00.036 --> 00:08:01.929
+Riguardo la ristorazione,
+
+121
+00:08:02.176 --> 00:08:05.709
+bar e ristoranti possono restare
+aperti fino alle 23.
+
+122
+00:08:05.956 --> 00:08:08.291
+Per il settore è un sollievo,
+
+123
+00:08:08.538 --> 00:08:11.630
+ma non mancano preoccupazioni
+e timori.
+
+124
+00:08:11.877 --> 00:08:16.390
+Ecco la reazione del presidente
+di GastroTicino
+
+125
+00:08:16.637 --> 00:08:20.444
+e vicepresidente di GastroSvizzera
+Massimo Suter.
+
+126
+00:08:21.664 --> 00:08:26.829
+Le misure prese non sono quelle
+dello scenario peggiore,
+
+127
+00:08:27.077 --> 00:08:30.896
+la chiusura alle 23
+non fa piacere ai bar,
+
+128
+00:08:31.143 --> 00:08:36.969
+ma risponde alle necessità
+del pubblico ticinese.
+
+129
+00:08:37.216 --> 00:08:42.919
+Dovremo forse cambiare le abitudini
+di orario al ristorante,
+
+130
+00:08:43.166 --> 00:08:50.779
+iniziare la cena un po' prima
+per salvare il possibile.
+
+131
+00:08:51.027 --> 00:08:56.800
+Il settore delle cene aziendali
+e conviviali mancherà in inverno.
+
+132
+00:08:57.047 --> 00:09:01.580
+Una parte della ristorazione
+
+133
+00:09:01.826 --> 00:09:08.085
+si basava molto
+sulle cene aziendali.
+
+134
+00:09:08.332 --> 00:09:12.263
+Ci sono 15 giorni di tempo
+per vedere se queste misure
+
+135
+00:09:12.507 --> 00:09:16.079
+appiattiranno la curva dei contagi,
+
+136
+00:09:16.326 --> 00:09:20.679
+ma gli aiuti retroattivi ventilati
+mi fanno credere
+
+137
+00:09:20.928 --> 00:09:23.320
+che il Consiglio federale
+
+138
+00:09:23.567 --> 00:09:28.259
+abbia paura
+di dover presto chiudere tutto.
+
+139
+00:09:31.546 --> 00:09:36.800
+Di misure "adeguate ma tardive"
+parla il dottor Andreas Cerny,
+
+140
+00:09:37.047 --> 00:09:41.680
+medico specialista in malattie
+infettive presso la clinica Moncucco
+
+141
+00:09:41.927 --> 00:09:43.647
+intervistato poco fa.
+
+142
+00:09:44.783 --> 00:09:47.601
+Mi sembrano delle misure sensate.
+
+143
+00:09:47.848 --> 00:09:51.489
+E' un pacchetto di base
+
+144
+00:09:51.746 --> 00:09:59.037
+al quale i Cantoni possono
+aggiungere altre misure.
+
+145
+00:09:59.284 --> 00:10:08.029
+Sono misure più miti rispetto
+a quelle di Francia e Italia.
+
+146
+00:10:08.276 --> 00:10:15.354
+Riducono le possibilità di contagio,
+c'è meno contatto tra le persone.
+
+147
+00:10:15.599 --> 00:10:19.998
+Sappiamo che l'impatto
+non sarà immediato,
+
+148
+00:10:20.245 --> 00:10:22.559
+ci vorranno 2 settimane.
+
+149
+00:10:22.806 --> 00:10:27.657
+Non abbiamo dati solidi
+sulle singole misure,
+
+150
+00:10:27.904 --> 00:10:34.899
+spesso, in passato, le misure
+sono state introdotte in pacchetti.
+
+151
+00:10:35.145 --> 00:10:38.902
+Se meno persone vanno a teatro,
+
+152
+00:10:39.149 --> 00:10:45.411
+ci sono minori possibilità
+di incontro e meno movimento.
+
+153
+00:10:45.659 --> 00:10:49.390
+Fino alle 23 le persone mangiano
+
+154
+00:10:49.637 --> 00:10:55.369
+e consumano una quantità moderata
+di alcol.
+
+155
+00:10:55.619 --> 00:11:02.596
+Questo diminuisce il rischio
+di comportamenti non confacenti
+
+156
+00:11:02.844 --> 00:11:08.050
+a diminuire diffusione del virus.
+
+157
+00:11:13.467 --> 00:11:17.669
+Come valutare globalmente le misure
+decretate oggi?
+
+158
+00:11:17.916 --> 00:11:21.787
+Perché la Svizzera è arrivata
+a questi numeri pandemici?
+
+159
+00:11:22.035 --> 00:11:25.970
+Vediamo le risposte della presidente
+della Confederazione
+
+160
+00:11:26.217 --> 00:11:28.261
+Simonetta Sommaruga.
+
+161
+00:11:29.627 --> 00:11:33.112
+Signora Presidente,
+lei oggi ha detto:
+
+162
+00:11:33.359 --> 00:11:36.111
+"Non abbiamo tempo da perdere".
+
+163
+00:11:36.359 --> 00:11:39.699
+Vista la situazione
+in cui ci troviamo in Svizzera,
+
+164
+00:11:39.947 --> 00:11:43.020
+di tempo non ne abbiamo già perso
+troppo?
+
+165
+00:11:43.267 --> 00:11:47.442
+No, oggi abbiamo preso le misure
+che andavano prese.
+
+166
+00:11:47.689 --> 00:11:50.546
+Queste misure le abbiamo
+anche preparate
+
+167
+00:11:50.793 --> 00:11:54.280
+insieme ai Cantoni,
+perché sono misure importanti.
+
+168
+00:11:54.533 --> 00:11:57.333
+Ora vogliamo davvero ridurre
+i contagi,
+
+169
+00:11:57.580 --> 00:12:01.240
+anche per evitare
+un secondo lockdown,
+
+170
+00:12:01.487 --> 00:12:05.539
+ed è proprio
+ciò che bisogna fare adesso.
+
+171
+00:12:05.786 --> 00:12:09.625
+Le cifre degli ultimi giorni
+sono però impressionanti:
+
+172
+00:12:09.872 --> 00:12:12.122
+com'è possibile che la Svizzera
+
+173
+00:12:12.369 --> 00:12:14.974
+si sia fatta cogliere
+così impreparata
+
+174
+00:12:15.221 --> 00:12:16.684
+alla seconda ondata?
+
+175
+00:12:16.931 --> 00:12:21.119
+Non eravamo impreparati:
+sta ancora funzionando tutto
+
+176
+00:12:21.365 --> 00:12:24.149
+e negli ospedali
+ci sono ancora posti.
+
+177
+00:12:24.397 --> 00:12:28.095
+Ma con le misure odierne
+intendiamo ridurre i contagi
+
+178
+00:12:28.343 --> 00:12:33.173
+per avere certezza di avere sempre
+posti liberi negli ospedali.
+
+179
+00:12:33.425 --> 00:12:38.407
+La situazione oggi funziona ancora,
+ma se non reagiamo adesso,
+
+180
+00:12:38.654 --> 00:12:44.052
+c'è il rischio di perdere
+il controllo della situazione.
+
+181
+00:12:44.298 --> 00:12:45.930
+Per settimane,
+
+182
+00:12:46.177 --> 00:12:50.570
+la politica ha fatto appello
+alla responsabilità individuale,
+
+183
+00:12:50.817 --> 00:12:53.375
+eppure il numero di contagi
+è esploso.
+
+184
+00:12:53.622 --> 00:12:56.571
+Lei è un po' delusa dalla popolazione
+
+185
+00:12:56.817 --> 00:13:01.242
+che non ha capito la gravità
+della situazione?
+
+186
+00:13:01.488 --> 00:13:05.110
+No: da una parte dipenda dal fatto
+che i Cantoni
+
+187
+00:13:05.357 --> 00:13:08.420
+hanno prese misure diverse fra loro.
+
+188
+00:13:08.667 --> 00:13:11.190
+Alcuni Cantoni hanno agito bene.
+
+189
+00:13:11.438 --> 00:13:13.590
+Ma bisogna avere comprensione,
+
+190
+00:13:13.837 --> 00:13:17.858
+perché tutti noi siamo
+un po' stanchi di queste misure
+
+191
+00:13:18.105 --> 00:13:21.380
+e tutti speriamo che cambierà.
+
+192
+00:13:21.627 --> 00:13:25.892
+Però abbiamo l'esperienza
+fatta in primavera:
+
+193
+00:13:26.139 --> 00:13:30.350
+se agiamo insieme, se il Paese
+unito adotta queste misure
+
+194
+00:13:30.597 --> 00:13:35.140
+-per quanto siano pesanti-
+possiamo controllare questa crisi.
+
+195
+00:13:35.386 --> 00:13:37.652
+Siamo di nuovo in una situazione
+
+196
+00:13:37.899 --> 00:13:41.042
+in cui tutti devono fare
+la stessa cosa
+
+197
+00:13:41.289 --> 00:13:44.730
+e sappiamo che questa crisi
+può essere controllata.
+
+198
+00:13:44.977 --> 00:13:48.622
+C'è dunque pochissimo tempo,
+signora Sommaruga.
+
+199
+00:13:48.869 --> 00:13:53.370
+In primavera, il messaggio
+centrale era: restate a casa.
+
+200
+00:13:53.617 --> 00:13:57.866
+Ieri la task-force ha ripetuto
+questo messaggio,
+
+201
+00:13:58.113 --> 00:14:02.722
+però il Consiglio federale oggi
+ha deciso di lasciare aperti
+
+202
+00:14:02.969 --> 00:14:05.513
+ristoranti, bar e negozi:
+
+203
+00:14:05.761 --> 00:14:08.881
+non si lancia così un messaggio
+diverso?
+
+204
+00:14:09.127 --> 00:14:12.470
+La popolazione è in grado di capire
+questo.
+
+205
+00:14:12.717 --> 00:14:16.950
+Il Consiglio federale fa solo
+ciò che oggi ritiene importante.
+
+206
+00:14:17.200 --> 00:14:19.911
+Non vogliamo chiudere,
+se non è necessario.
+
+207
+00:14:20.157 --> 00:14:24.860
+Le misure decise oggi sono volte
+ad avere meno contatti.
+
+208
+00:14:25.107 --> 00:14:29.590
+E meno contatti significa
+automaticamente meno contagi.
+
+209
+00:14:29.837 --> 00:14:35.080
+E meno contagi significa
+meno pressione sugli ospedali:
+
+210
+00:14:35.327 --> 00:14:38.402
+è ciò che bisogna fare.
+
+211
+00:14:38.648 --> 00:14:43.150
+Speriamo che questa misure
+siano efficaci.
+
+212
+00:14:43.397 --> 00:14:45.309
+Grazie, signora Sommaruga.
+
+213
+00:14:45.556 --> 00:14:46.840
+Grazie a lei.
+
+214
+00:14:47.896 --> 00:14:52.031
+E' preoccupato per l'impatto
+del coronavirus sull'economia
+
+215
+00:14:52.277 --> 00:14:56.748
+anche il nuovo presidente
+dell'Unione svizzera arti e mestieri
+
+216
+00:14:56.995 --> 00:14:58.501
+Fabio Regazzi.
+
+217
+00:14:58.748 --> 00:15:02.602
+Il consigliere nazionale PPD
+è stato eletto all'unanimità,
+
+218
+00:15:02.849 --> 00:15:06.440
+è la prima volta che un ticinese
+riveste questo ruolo.
+
+219
+00:15:07.828 --> 00:15:13.081
+Emozionato, Fabio Regazzi ringrazia
+i delegati del congresso dell'USAM.
+
+220
+00:15:13.328 --> 00:15:17.460
+Sarà lui a guidare l'Unione svizzera
+delle arti e dei mestieri
+
+221
+00:15:17.707 --> 00:15:19.163
+per i prossimi anni
+
+222
+00:15:19.416 --> 00:15:23.320
+dopo una lunga presidenza dell'UDC
+Jean-Francois Rime.
+
+223
+00:15:25.519 --> 00:15:29.479
+In queste situazioni è normale
+che ci siano dei cambiamenti
+
+224
+00:15:29.731 --> 00:15:33.431
+nello stile di conduzione
+e nella modalità di gestione.
+
+225
+00:15:33.678 --> 00:15:37.280
+Intendo impegnarmi
+per un coinvolgimento della base,
+
+226
+00:15:37.528 --> 00:15:40.821
+degli organi statutari
+del Gewerbeverband
+
+227
+00:15:41.069 --> 00:15:46.037
+e migliorare la collaborazione
+con le altre associazioni economiche
+
+228
+00:15:46.284 --> 00:15:48.341
+e con i partener sociali.
+
+229
+00:15:49.249 --> 00:15:53.157
+Sono sempre di più i ticinesi
+ai posti di comando.
+
+230
+00:15:53.404 --> 00:15:57.303
+Dopo l'elezione al Consiglio federale
+di Ignazio Cassis,
+
+231
+00:15:57.550 --> 00:16:01.391
+la nomina di Marina Carobbio
+a prima cittadina nel 2018,
+
+232
+00:16:01.637 --> 00:16:04.731
+quest'anno si aggiunge
+Fabio Regazzi all'USAM
+
+233
+00:16:04.978 --> 00:16:07.711
+a pochi mesi dalla investitura
+di Marco Chiesa
+
+234
+00:16:07.958 --> 00:16:11.870
+alla presidenza dell'UDC,
+ospite oggi del congresso USAM.
+
+235
+00:16:12.357 --> 00:16:16.273
+Non teme un cambiamento di rotta
+dalla linea di Rime, UDC,
+
+236
+00:16:16.520 --> 00:16:18.221
+duro e battagliero?
+
+237
+00:16:18.852 --> 00:16:21.531
+Conosciamo bene Fabio Regazzi.
+
+238
+00:16:21.778 --> 00:16:24.741
+In molte battaglie
+siamo stati a fianco,
+
+239
+00:16:24.988 --> 00:16:27.314
+in altre siamo stati opposti,
+
+240
+00:16:27.561 --> 00:16:30.875
+ma con lui si può discutere
+e portare avanti
+
+241
+00:16:31.122 --> 00:16:35.380
+l'interesse dell'economia svizzera
+per assicurare i posti di lavoro.
+
+242
+00:16:35.868 --> 00:16:39.478
+Mesi, se non anni difficili
+aspettano Fabio Regazzi,
+
+243
+00:16:39.725 --> 00:16:43.189
+preoccupato dall'impatto
+che la pandemia potrà avere
+
+244
+00:16:43.435 --> 00:16:45.452
+sulle piccole e medie imprese
+
+245
+00:16:45.699 --> 00:16:49.041
+e dalle due iniziative
+in votazione il 29 novembre
+
+246
+00:16:49.287 --> 00:16:50.909
+"per imprese responsabili"
+
+247
+00:16:51.155 --> 00:16:55.022
+e "per il divieto di finanziare
+i produttori di materiale bellico"
+
+248
+00:16:55.269 --> 00:16:57.191
+per cui l'USAM invita a votare NO.
+
+249
+00:16:58.064 --> 00:17:01.083
+L'ex consigliere federale
+Christoph Blocher
+
+250
+00:17:01.330 --> 00:17:07.004
+dovrà accontentarsi di una pensione
+retroattiva di 1,1 milioni di fr.
+
+251
+00:17:07.251 --> 00:17:10.923
+invece degli oltre 2,7 milioni
+richiesti.
+
+252
+00:17:11.855 --> 00:17:15.041
+Secondo quanto deciso
+dal Consiglio federale,
+
+253
+00:17:15.288 --> 00:17:18.552
+il pagamento retroattivo
+delle pensioni per gli ex ministri
+
+254
+00:17:18.801 --> 00:17:20.900
+verrà limitato a 5 anni
+
+255
+00:17:21.148 --> 00:17:24.441
+e in futuro dovrebbe essere
+totalmente escluso.
+
+256
+00:17:24.688 --> 00:17:28.031
+Blocher,
+non rieletto in Governo nel 2007,
+
+257
+00:17:28.278 --> 00:17:31.115
+aveva finora rinunciato
+a questa rendita,
+
+258
+00:17:31.362 --> 00:17:33.761
+ma in luglio aveva chiesto
+gli arretrati.
+
+259
+00:17:34.789 --> 00:17:38.850
+L'ex presidente della BNS
+Philipp Hildebrand
+
+260
+00:17:39.098 --> 00:17:42.541
+è candidato alla carica
+di segretario generale
+
+261
+00:17:42.787 --> 00:17:47.166
+dell'Organizzazione per la
+cooperazione e lo sviluppo economico
+
+262
+00:17:47.413 --> 00:17:50.551
+con il sostegno
+del Consiglio federale.
+
+263
+00:17:50.798 --> 00:17:54.014
+Una candidatura che fa discutere
+perché nel 2012
+
+264
+00:17:54.261 --> 00:17:58.078
+Hildebrand aveva dovuto lasciare
+la presidenza della BNS
+
+265
+00:17:58.325 --> 00:17:59.671
+perché si sospettava
+
+266
+00:17:59.918 --> 00:18:04.111
+che avesse trasmesso informazioni
+confidenziali alla moglie
+
+267
+00:18:04.358 --> 00:18:07.710
+che poi aveva fatto
+delle operazioni finanziarie.
+
+268
+00:18:07.957 --> 00:18:09.981
+Non mancano le perplessità.
+
+269
+00:18:10.228 --> 00:18:13.655
+Vediamo la motivazione del Governo
+da Guy Parmelin.
+
+270
+00:18:15.479 --> 00:18:20.121
+Il Consiglio federale è convinto
+che la reputazione,
+
+271
+00:18:20.368 --> 00:18:23.301
+la rete di contatti
+di Philipp Hildebrand
+
+272
+00:18:23.548 --> 00:18:26.522
+e la sua esperienza nel settore
+bancario e pubblico
+
+273
+00:18:26.769 --> 00:18:28.893
+a livello svizzero e internazionale
+
+274
+00:18:29.139 --> 00:18:34.241
+facciano di lui il candidato ideale
+per questa posizione.
+
+275
+00:18:37.158 --> 00:18:40.361
+I fatti in questione
+risalgono a 8 anni fa.
+
+276
+00:18:40.608 --> 00:18:44.622
+Ci sono state varie inchieste,
+vari documenti sono stati analizzati
+
+277
+00:18:44.868 --> 00:18:46.851
+e non penso ci sia il rischio
+
+278
+00:18:47.097 --> 00:18:51.030
+che questa vicenda possa costituire
+un ostacolo alla sua candidatura.
+
+279
+00:18:51.276 --> 00:18:53.621
+In questi anni il signor Hildebrand
+
+280
+00:18:53.868 --> 00:18:56.321
+è riuscito a dimostrare
+le sue competenze
+
+281
+00:18:56.568 --> 00:18:58.951
+in tutte le posizioni
+che ha occupato.
+
+282
+00:18:59.962 --> 00:19:04.781
+Torniamo sull'avanzata
+del coronavirus in tutta Europa.
+
+283
+00:19:05.028 --> 00:19:08.571
+Abbiamo visto le misure adottate
+oggi in Svizzera,
+
+284
+00:19:08.818 --> 00:19:13.791
+misure molto più severe sono state
+comunicate dalle autorità tedesche.
+
+285
+00:19:14.038 --> 00:19:18.842
+Ribadiamo i numeri della pandemia
+riferiti oggi alla Germania:
+
+286
+00:19:19.088 --> 00:19:21.104
+quasi 15mila nuovi
+
+287
+00:19:21.351 --> 00:19:24.951
+casi su una popolazione
+di 80 milioni di abitanti,
+
+288
+00:19:25.197 --> 00:19:29.065
+da noi oggi 8'600 su 8,5 milioni.
+
+289
+00:19:29.312 --> 00:19:32.831
+Buonasera a Walter Rauhe da Berlino.
+
+290
+00:19:33.079 --> 00:19:36.764
+Cosa ha comunicato oggi
+la cancelliera Merkel?
+
+291
+00:19:37.839 --> 00:19:41.131
+Buonasera.
+
+292
+00:19:46.158 --> 00:19:54.160
+La cancelliera ha parlato di un
+lockdown leggero.
+
+293
+00:19:54.647 --> 00:19:57.982
+I numeri sono pesanti dal 2 novembre
+
+294
+00:19:58.469 --> 00:20:01.168
+chiuderanno tutti gli esercizi
+gastronomici,
+
+295
+00:20:01.656 --> 00:20:03.511
+quindi anche gli stadi.
+
+296
+00:20:03.998 --> 00:20:09.471
+I locali notturni.
+
+297
+00:20:09.958 --> 00:20:11.971
+Saranno chiusi anche palestre,
+cinema, teatri,
+
+298
+00:20:12.459 --> 00:20:17.601
+le sale dei concerti.
+
+299
+00:20:18.088 --> 00:20:20.653
+Non ci saranno più congressi,
+manifestazioni culturale e
+
+300
+00:20:21.140 --> 00:20:23.303
+economiche,
+
+301
+00:20:23.791 --> 00:20:28.092
+le fiere e non ci saranno incontri
+fuori dalle famiglie.
+
+302
+00:20:28.580 --> 00:20:31.042
+Gli alberghi non possono ammettere
+ospiti
+
+303
+00:20:31.529 --> 00:20:36.403
+che vengono per motivi privati
+
+304
+00:20:36.890 --> 00:20:42.831
+o per lavoro se non per ragioni
+urgenti.
+
+305
+00:20:43.318 --> 00:20:49.451
+Gli unici che resteranno aperti a
+parte i supermercati
+
+306
+00:20:49.938 --> 00:20:53.041
+saranno gli esercizi commerciali al
+dettaglio e all'ingrosso.
+
+307
+00:20:53.528 --> 00:20:59.141
+Altrimenti chiuderanno praticamente
+tutti.
+
+308
+00:20:59.629 --> 00:21:01.809
+Tutte le partite sportive
+
+309
+00:21:02.295 --> 00:21:09.471
+si svolgeranno a porte chiuse.
+
+310
+00:21:09.958 --> 00:21:17.471
+Anche l'annuncio di importanti
+aiuti all'economia.
+
+311
+00:21:17.959 --> 00:21:21.526
+Per controbilanciare queste misure
+che colpiscono pesantemente molti
+
+312
+00:21:22.014 --> 00:21:24.390
+settori
+
+313
+00:21:24.877 --> 00:21:30.851
+il governo ha promesso aiuti e
+indennizzi alle imprese colpite,
+
+314
+00:21:31.338 --> 00:21:38.192
+le imprese con 50 dipendenti
+
+315
+00:21:38.679 --> 00:21:42.401
+otterranno il 75% di quanto
+fatturato il mese precedente.
+
+316
+00:21:42.888 --> 00:21:48.361
+Quelle compiute di 50
+
+317
+00:21:48.849 --> 00:21:54.592
+otterranno circa il 70% di quanto
+fatturato il mese precedente.
+
+318
+00:21:54.839 --> 00:21:58.756
+Grazie, Walter Rauhe,
+in diretta da Berlino.
+
+319
+00:21:59.003 --> 00:22:02.988
+Parigi: per ammissione delle stesse
+autorità sanitarie
+
+320
+00:22:03.235 --> 00:22:06.092
+si definisce la situazione
+"fuori controllo".
+
+321
+00:22:06.338 --> 00:22:09.842
+Il presidente Emmanuel Macron
+sta parlando ora alla nazione.
+
+322
+00:22:10.089 --> 00:22:12.632
+Davide Mattei, ci sono nuovi
+importanti annunci?
+
+323
+00:22:12.879 --> 00:22:17.181
+Buonasera.
+
+324
+00:22:22.135 --> 00:22:28.182
+Macron ha annunciato che da venerdì
+la Francia sarà ancora in lockdown.
+
+325
+00:22:28.669 --> 00:22:32.012
+Si potrà uscire di casa soltanto per
+lavorare, fare la spesa e curarsi
+
+326
+00:22:32.259 --> 00:22:34.689
+o per fare un po' di sport.
+
+327
+00:22:35.176 --> 00:22:41.180
+Non ci si potrà muovere da una
+regione all'altra
+
+328
+00:22:41.667 --> 00:22:44.852
+e tutti i commerci non essenziali,
+quindi bar e ristoranti, saranno
+
+329
+00:22:45.339 --> 00:22:46.852
+chiusi.
+
+330
+00:22:47.339 --> 00:22:49.522
+Rispetto a marzo il confinamento
+sarà leggermente
+
+331
+00:22:50.009 --> 00:22:54.264
+più leggero.
+
+332
+00:22:54.751 --> 00:22:58.771
+Le scuole, i licei resteranno
+aperti.
+
+333
+00:22:59.259 --> 00:23:06.772
+Solo le facoltà faranno insegnamento
+a distanza.
+
+334
+00:23:08.249 --> 00:23:12.701
+Un altro punto importante è che si
+continuerà a lavorare.
+
+335
+00:23:13.188 --> 00:23:18.665
+Ma con un confinamento che resterà
+una misura dura
+
+336
+00:23:19.152 --> 00:23:22.102
+che il presidente ha deciso di
+prendere perché la situazione in
+
+337
+00:23:22.589 --> 00:23:24.662
+Francia è complicata.
+
+338
+00:23:25.149 --> 00:23:27.881
+La seconda ondata per Macron
+potrebbe essere più dura della
+
+339
+00:23:28.368 --> 00:23:29.882
+prima.
+
+340
+00:23:30.370 --> 00:23:31.890
+Ha detto che se si continuerà così,
+
+341
+00:23:32.584 --> 00:23:37.575
+senza prendere decisioni,
+
+342
+00:23:38.062 --> 00:23:41.462
+negli ospedali fra una settimana si
+potrà trovare di fronte a scegliere
+
+343
+00:23:41.949 --> 00:23:44.236
+su chi curare.
+
+344
+00:23:44.723 --> 00:23:46.212
+Quindi da qui è arrivata questa
+decisione.
+
+345
+00:23:46.458 --> 00:23:48.982
+Grazie, Davide Mattei.
+
+346
+00:23:49.229 --> 00:23:52.990
+Italia: continuano le proteste
+per le misure anti-COVID
+
+347
+00:23:53.237 --> 00:23:55.654
+contenute nell'ultimo decreto Conte.
+
+348
+00:23:55.901 --> 00:23:58.519
+Proteste molto diverse fra loro:
+
+349
+00:23:58.767 --> 00:24:01.598
+da quelle violente
+che si scatenano di notte
+
+350
+00:24:01.846 --> 00:24:05.283
+a quelle pacifiche
+che oggi hanno visto 24 piazze
+
+351
+00:24:05.530 --> 00:24:08.382
+ospitare le contestazioni
+dell'associazione
+
+352
+00:24:08.629 --> 00:24:11.482
+che raduna gli esercenti
+di bar e ristoranti.
+
+353
+00:24:11.730 --> 00:24:13.813
+Abbiamo seguito la giornata a Roma.
+
+354
+00:24:15.430 --> 00:24:18.651
+La sera, la protesta
+che diventa guerriglia,
+
+355
+00:24:18.899 --> 00:24:22.072
+spinta da ultrà e movimenti
+di estrema destra.
+
+356
+00:24:22.319 --> 00:24:24.742
+Di giorno invece quella composta,
+
+357
+00:24:24.989 --> 00:24:29.066
+imbandita provocatoriamente a terra
+-davanti ali Pantheon-
+
+358
+00:24:29.313 --> 00:24:33.102
+dall'Associazione degli esercenti
+di bar e ristoranti.
+
+359
+00:24:33.910 --> 00:24:37.952
+Siamo a terra, più in basso di così
+non possiamo andare.
+
+360
+00:24:38.199 --> 00:24:41.182
+Apparecchiamo a terra,
+è il nostro lavoro.
+
+361
+00:24:41.429 --> 00:24:43.045
+Guardi che belle tavole imbandite.
+
+362
+00:24:43.533 --> 00:24:46.942
+Anche perché l'obbligo
+di abbassare le serrande alle 18
+
+363
+00:24:47.189 --> 00:24:50.563
+da molti di questi locali pubblici
+viene vissuto
+
+364
+00:24:50.810 --> 00:24:53.022
+come una ghigliottina economica.
+
+365
+00:24:53.751 --> 00:24:58.129
+Noi aprivamo già prima alle 18:
+apriremo alle 18 per aprire alle 18.
+
+366
+00:24:58.617 --> 00:25:01.434
+Non si lavora, non si guadagna,
+non si mangia.
+
+367
+00:25:01.681 --> 00:25:05.085
+Non solo noi cuochi: anche
+camerieri, addetti ai servizi.
+
+368
+00:25:05.332 --> 00:25:09.583
+Il Governo ha chiuso i ristoranti,
+ma non ha chiuso gli autobus.
+
+369
+00:25:09.829 --> 00:25:13.184
+Ha chiuso i bar, ma non la metro:
+roba da pazzi.
+
+370
+00:25:13.670 --> 00:25:18.338
+Protesta silenziosa apparecchiata
+nelle principali piazze d'Italia
+
+371
+00:25:18.585 --> 00:25:22.528
+fatta da chi, oggi, paga il conto più
+salato della crisi.
+
+372
+00:25:23.015 --> 00:25:27.353
+Aver speso 15-20mila euro
+per adeguare le misure di sicurezza
+
+373
+00:25:27.600 --> 00:25:29.098
+e le norme igieniche,
+
+374
+00:25:29.346 --> 00:25:32.712
+per poi osservare un orario
+di chiusura alle 18,
+
+375
+00:25:32.959 --> 00:25:34.473
+è una anti-logica.
+
+376
+00:25:34.720 --> 00:25:38.602
+Il 50% dei cuochi italiani
+rischiano il posto di lavoro
+
+377
+00:25:38.849 --> 00:25:41.702
+e 1/3 dei ristoranti sta chiudendo.
+
+378
+00:25:42.730 --> 00:25:45.973
+Previsioni allarmate
+che non accompagnano
+
+379
+00:25:46.220 --> 00:25:50.423
+solo la frustrazione per i sacrifici
+fatti e avvertiti come inutili,
+
+380
+00:25:50.670 --> 00:25:53.978
+ma anche l'irritazione
+per sentirsi colpevolizzati
+
+381
+00:25:54.225 --> 00:25:55.662
+senza distinzioni.
+
+382
+00:25:56.149 --> 00:25:58.969
+Se qualcuno non si è adeguato,
+se c'è movida,
+
+383
+00:25:59.217 --> 00:26:03.383
+vai a colpire dove è il caso,
+mica fai una chiusura generale.
+
+384
+00:26:04.089 --> 00:26:07.818
+Sfiducia che si indirizza
+anche verso gli indennizzi
+
+385
+00:26:08.065 --> 00:26:09.712
+promessi ieri dal Governo,
+
+386
+00:26:09.959 --> 00:26:12.871
+ma che qui rifugge
+ogni forma di violenza.
+
+387
+00:26:13.358 --> 00:26:16.026
+Le proteste devono essere civili,
+sempre.
+
+388
+00:26:16.272 --> 00:26:18.203
+Ho visto scene di guerriglia
+
+389
+00:26:18.450 --> 00:26:21.982
+che non c'entrano niente
+con ciò che stiamo vivendo.
+
+390
+00:26:22.229 --> 00:26:23.912
+Il momento è difficile per tutti,
+
+391
+00:26:24.159 --> 00:26:26.672
+ma distruggere crea solo
+più problemi.
+
+392
+00:26:27.159 --> 00:26:29.287
+Problemi di un Paese
+stretto a tenaglia
+
+393
+00:26:29.534 --> 00:26:31.231
+dalla crescita continua di contagi
+e di proteste.
+
+394
+00:26:32.280 --> 00:26:37.483
+USA: il mondo aspetta di sapere
+chi sarà il prossimo presidente.
+
+395
+00:26:37.730 --> 00:26:42.463
+Attenzione particolare viene posta
+dai Paesi del sud-est asiatico,
+
+396
+00:26:42.710 --> 00:26:47.455
+dove la presenza americana è sempre
+stata vista in modo favorevole,
+
+397
+00:26:47.702 --> 00:26:50.065
+contropeso all'espansione cinese,
+
+398
+00:26:50.312 --> 00:26:52.651
+ma le tensioni
+fra Washington e Pechino
+
+399
+00:26:52.898 --> 00:26:57.362
+mettono in difficoltà una delle
+regioni più dinamiche del mondo
+
+400
+00:26:57.609 --> 00:27:00.632
+che ha bisogno di entrambe
+le potenze per prosperare.
+
+401
+00:27:01.590 --> 00:27:05.903
+Il sud-est asiatico accolse
+con sentimenti contrastanti
+
+402
+00:27:06.150 --> 00:27:08.793
+l'elezione di Donald Trump nel 2016.
+
+403
+00:27:09.040 --> 00:27:13.632
+Il suo stile ha ispirato leader
+come Rodrigo Duterte,
+
+404
+00:27:13.879 --> 00:27:18.633
+ma la regione ha capito di non essere
+tra le priorità di Washington.
+
+405
+00:27:18.880 --> 00:27:22.513
+Sebbene il sud-est asiatico abbia
+fatto da cornice
+
+406
+00:27:22.760 --> 00:27:25.263
+all'incontro storico con Kim Jong-un,
+
+407
+00:27:25.510 --> 00:27:28.345
+il fallito dialogo
+ha evidenziato limiti
+
+408
+00:27:28.592 --> 00:27:30.773
+che in Asia creano frustrazione.
+
+409
+00:27:33.740 --> 00:27:37.014
+E' positivo che il presidente Trump
+
+410
+00:27:37.261 --> 00:27:42.133
+abbia avuto il coraggio
+di andare controcorrente,
+
+411
+00:27:42.379 --> 00:27:45.290
+incontrando il leader nordcoreano
+a Singapore e in Vietnam.
+
+412
+00:27:45.537 --> 00:27:48.303
+Ma purtroppo Trump
+era concentrato sulle telecamere,
+
+413
+00:27:48.550 --> 00:27:51.335
+la sua delegazione
+non ha riflettuto abbastanza
+
+414
+00:27:51.582 --> 00:27:54.303
+su come negoziare
+con la Corea del Nord.
+
+415
+00:27:54.550 --> 00:27:56.502
+Dunque la politica estera americana
+
+416
+00:27:56.749 --> 00:27:59.049
+manca di strategia
+a lungo termine.
+
+417
+00:27:59.537 --> 00:28:01.483
+Nel suo libro "La Cina ha vinto?"
+
+418
+00:28:01.730 --> 00:28:06.703
+Kishore Mahbunani spiega come Pechino
+abbia abbracciato il multilateralismo
+
+419
+00:28:06.949 --> 00:28:08.544
+abbandonato da Washington.
+
+420
+00:28:08.791 --> 00:28:12.543
+La decisione di Trump di ritirarsi
+dal partenariato transpacifico
+
+421
+00:28:12.790 --> 00:28:15.173
+ha deluso i Paesi di ASEAN,
+
+422
+00:28:15.420 --> 00:28:20.029
+sotto pressione a causa della guerra
+commerciale tra Cina e USA.
+
+423
+00:28:21.041 --> 00:28:25.845
+Donald Trump non sa molto e non
+gliene importa molto dell'Asia.
+
+424
+00:28:26.092 --> 00:28:29.371
+Ma il sud-est asiatico
+ha 600 milioni di abitanti,
+
+425
+00:28:29.619 --> 00:28:31.706
+capitale e risorse naturali.
+
+426
+00:28:31.954 --> 00:28:34.983
+E' una rotta commerciale,
+tutto passa da qui.
+
+427
+00:28:35.230 --> 00:28:36.743
+Bisogna fare attenzione,
+
+428
+00:28:36.990 --> 00:28:40.603
+perché è importante
+che lo si sappia o meno.
+
+429
+00:28:41.650 --> 00:28:44.626
+Il celebre investitore di Wall Street
+
+430
+00:28:44.873 --> 00:28:47.913
+ha scelto di crescere le figlie
+a Singapore
+
+431
+00:28:48.160 --> 00:28:50.156
+per la vicinanza con la Cina.
+
+432
+00:28:50.402 --> 00:28:54.033
+Una forza che, dice,
+va gestita con più pragmatismo.
+
+433
+00:28:54.520 --> 00:28:57.344
+Bisogna essere in Cina.
+
+434
+00:28:57.590 --> 00:29:01.568
+E' la seconda più importante
+economia del mondo.
+
+435
+00:29:01.815 --> 00:29:05.474
+L'America rimane la più grande,
+ma ha un debito enorme
+
+436
+00:29:05.721 --> 00:29:07.513
+e una miriade di problemi.
+
+437
+00:29:07.760 --> 00:29:12.512
+Il sud-est asiatico guarda agli USA
+dal punto di vista della sicurezza,
+
+438
+00:29:12.759 --> 00:29:17.768
+ma non so se difenderà davvero
+la regione in caso di bisogno.
+
+439
+00:29:18.962 --> 00:29:23.203
+Il rischio di incidenti è reale
+nel mare cinese meridionale
+
+440
+00:29:23.450 --> 00:29:26.603
+per le dispute territoriali
+che oppongono la Cina
+
+441
+00:29:26.850 --> 00:29:29.313
+a numerosi Paesi
+del sud-est asiatico.
+
+442
+00:29:29.560 --> 00:29:33.431
+Washington chiede più lealtà
+in cambio della sicurezza.
+
+443
+00:29:34.203 --> 00:29:38.018
+La Tailanuia e le Filippine
+sono gli unici due Paesi
+
+444
+00:29:38.265 --> 00:29:40.382
+del sud-est asiatico
+
+445
+00:29:40.629 --> 00:29:44.193
+che hanno firmato un trattato
+di difesa con Washington,
+
+446
+00:29:44.440 --> 00:29:48.016
+ma entrambi commerciano molto di più
+con la Cina che con gli USA.
+
+447
+00:29:48.262 --> 00:29:50.614
+Quindi come puoi chiedere
+ai tuoi alleati
+
+448
+00:29:50.860 --> 00:29:53.894
+di rinunciare al loro principale
+partner commerciale
+
+449
+00:29:54.141 --> 00:29:57.066
+e scegliere l'America?
+Non sarebbe saggio.
+
+450
+00:29:57.553 --> 00:30:02.334
+La politica americana nel sud-est
+asiatico non è mai stata coerente.
+
+451
+00:30:02.581 --> 00:30:05.724
+Tra i diplomatici
+il desiderio è che non venga decisa
+
+452
+00:30:05.971 --> 00:30:08.763
+sempre e solo attraverso
+la visione cinese.
+
+453
+00:30:09.010 --> 00:30:13.876
+Eppure nella regione si è rassegnati
+al fatto che continuerà a cambiare,
+
+454
+00:30:14.123 --> 00:30:15.363
+anche in modo repentino,
+
+455
+00:30:15.610 --> 00:30:18.103
+indipendentemente da chi siede
+alla Casa Bianca.
+
+456
+00:30:18.691 --> 00:30:20.054
+Siamo in chiusura.
+
+457
+00:30:20.301 --> 00:30:23.129
+LA 1: gli episodi
+di "Grey's Anatomy" (ST) .
+
+458
+00:30:23.375 --> 00:30:25.123
+InfoNotte è alle 22:40.
+
+459
+00:30:25.369 --> 00:30:29.662
+LA 2: alle 21:40 Champions League
+con Juventus-Barcellona (ST) .
+
+460
+00:30:29.909 --> 00:30:32.865
+Grazie per essere stati con noi,
+buona serata.
+
+461
+00:30:34.822 --> 00:30:52.100
+sottotitoli SWISS TXT Lugano

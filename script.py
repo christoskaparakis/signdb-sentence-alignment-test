@@ -30,7 +30,7 @@ for file in os.listdir('videos and timestamp seg'):
 
         ###
         # code for subtitles segments
-        subs = pysubs2.load("videos and timestamp seg/subs-test-video{}.txt".format(counter_files), encoding="utf-8")
+        subs = pysubs2.load("videos and timestamp seg/subs-test-video{}.txt".format(counter_files), encoding="utf-8") # change subs location
         ####
 
         next(f)  # skip first line of timestamps file
